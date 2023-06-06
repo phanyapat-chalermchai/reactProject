@@ -1,10 +1,30 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Phanyapat"
-        }
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Phanyapat"
+    },
+    {
+      "name": "Mr. Lawrence Hyatt",
+      "id": 2
+    },
+    {
+      "name": "Josephine Rau",
+      "id": 3
+    },
+    {
+      "name": "Guy Kerluke",
+      "id": 5
+    },
+    {
+      "name": "Byron Hauck",
+      "id": 6
+    },
+    {
+      "name": "Lynda Abernathy",
+      "id": 7
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
